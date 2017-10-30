@@ -4,10 +4,10 @@ This app used openweathermap api to fetch data for a city searched by a user.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd redux-weather-app
-> npm install
-> npm start
+$ git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+$ cd redux-weather-app
+$ npm install
+$ npm start
 ```
 ### Dependencies
 * react 0.14.3
