@@ -9,7 +9,7 @@ $ cd redux-weather-app
 $ npm install
 $ npm start
 ```
-### Dependencies
+## Dependencies
 * react 0.14.3
 * react-dom 0.14.3
 * redux3.0.4
