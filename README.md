@@ -1,4 +1,4 @@
-This app used openweathermap api to fetch data for a city searched by a user.
+This app uses openweathermap and googlemaps api to fetch data for a city searched by a user.
 
 ## Getting Started
 Checkout this repo, install dependencies, then start the gulp process with the following:
